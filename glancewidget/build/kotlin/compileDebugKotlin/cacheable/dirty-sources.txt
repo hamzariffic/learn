@@ -1,0 +1,3 @@
+/home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/java/com/example/jetcaster/glancewidget/EdcasterAppWidget.kt
+/home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/java/com/example/jetcaster/glancewidget/EdcasterAppWidgetPreview.kt
+/home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/java/com/example/jetcaster/glancewidget/Colors.kt

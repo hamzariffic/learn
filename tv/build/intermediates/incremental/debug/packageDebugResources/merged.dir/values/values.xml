@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#121212</color>
+    <plurals name="updated_days_ago">
+        <item quantity="one">Updated yesterday</item>
+        <item quantity="other">Updated %d days ago</item>
+    </plurals>
+    <plurals name="updated_weeks_ago">
+        <item quantity="one">Updated %d week ago</item>
+        <item quantity="other">Updated %d weeks ago</item>
+    </plurals>
+    <string name="app_name">EdCaster</string>
+    <string name="display_error_state">Something wrong happened</string>
+    <string name="display_no_subscribed_course">Let\'s discover the courses!</string>
+    <string name="display_nothing_in_queue">No lessons in the queue</string>
+    <string name="elapsed_time">%1$s • %2$s</string>
+    <string name="label_add_playlist">Add to playlist</string>
+    <string name="label_back_to_home">Back to Home</string>
+    <string name="label_course">Courses</string>
+    <string name="label_info">Info</string>
+    <string name="label_latest_episode">Latest Episodes</string>
+    <string name="label_learn">Learn</string>
+    <string name="label_lesson">Lessons</string>
+    <string name="label_navigate_to_discover">Discover the podcasts</string>
+    <string name="label_next_lesson">Play the next lesson</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_play">Play</string>
+    <string name="label_previous_lesson">Play the previous lesson</string>
+    <string name="label_rewind">Rewind 10 seconds</string>
+    <string name="label_search">Search course by keyword</string>
+    <string name="label_skip">Skip 10 seconds</string>
+    <string name="label_subscribe">Subscribe</string>
+    <string name="label_unsubscribe">Subscribed</string>
+    <string name="lesson_date_duration">%1$s • %2$d mins</string>
+    <string name="message_loading">Loading</string>
+    <string name="message_no_subscribed_course">You subscribe no courses yet. Let\'s discover the courses and subscribe them!</string>
+    <string name="message_not_available_feature">This feature is not available yet.</string>
+    <string name="message_nothing_in_queue">Discover the Courses you want to listen to</string>
+    <string name="minutes_seconds">%1$02d:%2$02d</string>
+    <string name="section_course">Course</string>
+    <string name="section_latest_lessons">Latest Lessons</string>
+    <string name="updated_longer">Updated a while ago</string>
+    <string name="updated_today">Updated today</string>
+    <style name="Theme.Edcaster" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+</resources>

@@ -1,0 +1,18 @@
+com.example.edcaster.glancewidget
+color aqua
+color colorAppWidgetBackground
+color dark_gray
+color light_purple
+dimen widget_preview_icon_height
+drawable outline_pause_24
+drawable outline_play_arrow_24
+drawable outline_skip_next_24
+drawable widget_preview
+drawable widget_preview_image_shape
+drawable widget_preview_thumbnail
+layout widget_preview
+string app_widget_description
+string content_description_pause
+string content_description_play
+style MyWidgetTheme
+xml edcaster_info

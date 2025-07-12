@@ -1,0 +1,40 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:4:5-18:19
+receiver#com.example.edcaster.glancewidget.EdcasterAppWidgetReceiver
+ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:5:9-17:20
+	android:enabled
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:7:13-35
+	android:label
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:8:13-59
+	android:exported
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:6:13-87
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:10:13-12:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:11:17-84
+	android:name
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:11:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:14:13-16:57
+	android:resource
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:16:17-54
+	android:name
+		ADDED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml:15:17-58
+uses-sdk
+INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml
+INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/axel/Desktop/compose/compose-samples/Edcaster/glancewidget/src/main/AndroidManifest.xml

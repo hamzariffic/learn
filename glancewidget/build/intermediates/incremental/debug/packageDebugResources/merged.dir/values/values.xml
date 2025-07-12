@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aqua">#FF7CD7BA</color>
+    <color name="colorAppWidgetBackground">#ffe0f3ff</color>
+    <color name="dark_gray">#FF2C322F</color>
+    <color name="light_purple">#FFECDCFF</color>
+    <dimen name="widget_preview_icon_height">80dp</dimen>
+    <string name="app_widget_description">Play your course</string>
+    <string name="content_description_pause">Pause</string>
+    <string name="content_description_play">Play</string>
+    <style name="MyWidgetTheme" parent="Theme.Material3.DynamicColors.DayNight">
+        
+        <item name="colorSurface">@color/light_purple</item>
+    </style>
+</resources>

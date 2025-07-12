@@ -1,0 +1,9 @@
+com.example.edcaster.core.designsystem
+color background
+color surface_bright
+drawable img_empty
+font montserrat_light
+font montserrat_medium
+font montserrat_regular
+font montserrat_semibold
+font roboto_flex

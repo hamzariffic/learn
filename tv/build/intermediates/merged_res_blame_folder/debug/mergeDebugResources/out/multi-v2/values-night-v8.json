@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.edcaster.tv-mergeDebugResources-68:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/axel/.gradle/caches/8.14.2/transforms/b412f0626d48ed90dab398da0859fdfa/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "153,223,307,391,487,589,691,785",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "218,302,386,482,584,686,780,869"
+                    }
+                },
+                {
+                    "source": "/home/axel/Desktop/compose/compose-samples/Edcaster/core/designsystem/build/intermediates/packaged_res/debug/packageDebugResources/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,50",
+                        "endOffsets": "97,148"
+                    }
+                }
+            ]
+        }
+    ]
+}
